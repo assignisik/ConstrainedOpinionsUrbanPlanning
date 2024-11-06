@@ -1,6 +1,6 @@
-# ConstrainedOpinionsUrbanPlanning
+# Aggregation of Constrained Crowd Opinions for Urban Planning
 
-This repository includes source codes, datasets and relevant results associated with the paper titled "Aggregation of Constrained Crowd Opinions for Urban Planning".
+This repository includes source codes, datasets and relevant results.
 
 ## Case Study 1
 This includes the source codes from the work of by Chatterjee et al. (Chatterjee, Mukhopadhyay, and Bhattacharyya 2017).
